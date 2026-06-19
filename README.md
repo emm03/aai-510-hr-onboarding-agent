@@ -6,9 +6,9 @@ This project builds an HR Onboarding Support Agent that analyzes onboarding surv
 
 ## Team Members
 
-- Emmi Bishop — Data Engineer
-- Peng Wang — AI Engineer
-- Glen Salazar — Product Manager
+- Emmi Bishop - Data Engineer
+- Peng Wang - AI Engineer
+- Glen Salazar - Product Manager
 
 ## Project Structure
 
