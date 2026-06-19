@@ -1,0 +1,9 @@
+department,employee_count,avg_role_clarity,avg_training_quality,avg_manager_support,avg_tooling_access,avg_onboarding_nps,avg_overall_onboarding_score,probation_loss_rate,high_risk_count
+Customer Success,46,6.33,6.43,6.41,7.09,6.56,6.56,0.15,11
+Data,49,5.71,6.67,6.04,7.2,6.41,6.41,0.14,9
+Engineering,44,5.77,5.98,6.43,7.11,6.36,6.33,0.3,15
+Finance,57,6.16,6.49,6.04,6.79,6.35,6.36,0.16,14
+HR,39,6.13,6.46,6.1,6.72,6.37,6.36,0.26,14
+Marketing,48,5.65,6.6,6.5,7.21,6.45,6.48,0.12,9
+Product,62,6.05,6.31,5.98,7.11,6.37,6.36,0.24,18
+Sales,60,5.95,6.62,6.08,6.95,6.42,6.4,0.37,25
