@@ -15,8 +15,10 @@ This project builds an HR Onboarding Support Agent that analyzes onboarding surv
 ```text
 notebooks/
   01_data_pipeline_eda.ipynb
+  02_hr_onboarding_agent.ipynb
 ```
 
 ## Data Engineer Notebook
 
 The `01_data_pipeline_eda.ipynb` notebook loads the Employee Onboarding Effectiveness dataset, performs EDA, cleans missing values and mixed date formats, creates agent-ready features, and saves cleaned outputs as CSV files and Databricks tables.
+The `02_hr_onboarding_agent.ipynb` notebook presents the Artificial Intelligence Engineer portion of the final team project. The goal is to build and evaluate an HR Onboarding Insights Agent that helps HR managers analyze onboarding survey data, identify departments and locations with weaker onboarding outcomes, summarize risk patterns related to probation attrition, and generate data-grounded recommendations.
