@@ -18,7 +18,7 @@ notebooks/
   02_hr_onboarding_agent.ipynb
 ```
 
-## Data Engineer Notebook
+## Data Engineer and AI Engineer Notebooks
 
 - The `01_data_pipeline_eda.ipynb` notebook loads the Employee Onboarding Effectiveness dataset, performs EDA, cleans missing values and mixed date formats, creates agent-ready features, and saves cleaned outputs as CSV files and Databricks tables.
 
