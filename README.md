@@ -25,7 +25,7 @@ Trace 2.png
 Trace 3.png
 Trace 4.png
 Trace 5.png
-Agent Evaluation Results and MLflow Trace Analysis
+Agent Evaluation Results and MLflow Trace Analysis.png
 README.md
 ```
 
