@@ -15,9 +15,9 @@ This project builds an HR Onboarding Support Agent that analyzes onboarding surv
 ```text
 notebooks/
   01_data_pipeline_eda.ipynb
+  02_hr_onboarding_agent.ipynb
   department_summary.csv
 
-02_hr_onboarding_agent.ipynb
 hr_agent.py
 five_trace_examples.json
 Trace 1.png
